@@ -26,4 +26,3 @@ Segundo o Pisa 2018, o Brasil está estagnado com pelo menos 50% dos alunos não
 Com esse projeto, esperamos alcançar tanto educadores quanto estudantes.
 
 No entanto, o nosso foco maior é no estudante homem ou mulher, que está cursando o ensino médio ou superior, entre 18 e 31 anos e que ainda não está inserido no mercado de trabalho.
-Correção linha 29
